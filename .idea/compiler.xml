@@ -10,6 +10,7 @@
         <module name="log-analyzer" />
         <module name="apm-webapp" />
         <module name="oap-server" />
+        <module name="library-webapp" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

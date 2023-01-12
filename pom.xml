@@ -13,6 +13,7 @@
     <module>apm-dist</module>
     <module>oap-server</module>
     <module>log-analyzer</module>
+    <module>apm-webapp/library-webapp</module>
   </modules>
 
   <properties>
